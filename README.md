@@ -1,2 +1,2 @@
-# kreyants.github.io
+# George Kreyants
 web developing
